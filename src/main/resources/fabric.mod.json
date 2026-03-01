@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "usefultoolsmod",
+  "version": "${version}",
+  "name": "Useful Tools Mod",
+  "description": "Adds many useful tools, armor, items, and blocks.",
+  "authors": [
+    "stonytark"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.stonytark.usefultoolsmod.UsefultoolsMod"
+    ],
+    "client": [
+      "com.stonytark.usefultoolsmod.UsefultoolsModClient"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21.1",
+    "java": ">=21"
+  }
+}
