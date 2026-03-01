@@ -1,14 +1,15 @@
 {
   "schemaVersion": 1,
   "id": "usefultoolsmod",
-  "version": "2.1.01",
+  "version": "2.1.01-1.21.1-fabric",
   "name": "Useful Tools Mod",
-  "description": "Adds many useful tools, armor, items, and blocks.",
+  "description": "A simple mod adding various tools and armor based on reinforced versions of common materials.",
   "authors": [
-    "stonytark"
+    "stonytark_mkii"
   ],
   "contact": {},
-  "license": "MIT",
+  "license": "CC0-1.0",
+  "icon": "grenade.png",
   "environment": "*",
   "entrypoints": {
     "main": [

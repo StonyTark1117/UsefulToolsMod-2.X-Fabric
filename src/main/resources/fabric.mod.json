@@ -3,12 +3,13 @@
   "id": "usefultoolsmod",
   "version": "${version}",
   "name": "Useful Tools Mod",
-  "description": "Adds many useful tools, armor, items, and blocks.",
+  "description": "A simple mod adding various tools and armor based on reinforced versions of common materials.",
   "authors": [
-    "stonytark"
+    "stonytark_mkii"
   ],
   "contact": {},
-  "license": "MIT",
+  "license": "CC0-1.0",
+  "icon": "grenade.png",
   "environment": "*",
   "entrypoints": {
     "main": [
